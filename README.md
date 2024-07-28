@@ -11,7 +11,6 @@ Enjoy the classic Snake Game implemented in Python using the Pygame library. Con
 - [Installation](#installation)
 - [Usage](#usage)
 - [Configuration](#configuration)
-- [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
 
