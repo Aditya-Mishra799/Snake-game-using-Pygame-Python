@@ -1,4 +1,4 @@
-# Snake Game Made with Python [Pygame]
+# Snake Game Made with Python [Pygame] [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 **Welcome to the Snake Game!** 🐍🎮
 
@@ -85,7 +85,7 @@ Enjoy the classic Snake Game implemented in Python using the Pygame library. Con
 - **Audio Control**: Enable or mute the game audio.
 - **Speed Adjustment**: Modify the speed of the snake to increase the game's difficulty.
 
-## License
+## License [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
