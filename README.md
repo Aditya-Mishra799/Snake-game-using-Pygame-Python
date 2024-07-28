@@ -48,8 +48,8 @@ Enjoy the classic Snake Game implemented in Python using the Pygame library. Con
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/Aditya-Mishra799/Snake-Game.git
-   cd Snake-Game
+   git clone https://github.com/Aditya-Mishra799/Snake-game-using-Pygame-Python.git
+   cd Snake-game-using-Pygame-Python
    ```
 
 2. Install Pygame:
